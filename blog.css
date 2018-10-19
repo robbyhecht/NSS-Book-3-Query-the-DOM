@@ -18,3 +18,7 @@
 .dashed {
   border: 1px dashed black;
 }
+
+.important {
+  font-size: 4em;
+}
